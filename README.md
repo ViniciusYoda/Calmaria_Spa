@@ -7,7 +7,7 @@ A Calmaria Spa é um empresa de bem estar e saúde. Nesse momento, temos o códi
 <img src="./assets/screenshot.png" alt="Calmaria Spa" width="50%">
 
 
-## 🔨 Funcionalidades do projeto
+## 🔨 Funcionalidades do projeto:
 
 Nesse primeiro momento, nós temos a página que foi idealizada como a primeira entrega do time de desenvolvimento.
 
